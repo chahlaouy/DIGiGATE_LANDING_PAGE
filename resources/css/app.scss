@@ -1,0 +1,35 @@
+/** Importing Tailwindcss */ 
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+/** Importing Inter Font from google fonts api */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+/** Importing Ionicons */ 
+// @import "node_modules/ionicons/dist/scss/ionicons";
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+}
+
+h1,h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+}
+
+h3,h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+h5,h6{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
