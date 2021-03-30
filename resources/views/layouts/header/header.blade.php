@@ -18,8 +18,8 @@
 
     </div>
     {{-- header image --}}
-    <div class="absolute top-24 right-0 z-30">
-        <img src="{{asset('assets/images/bg.png')}}" alt="" class="max-w-xl">
+    <div class="absolute top-32 right-0 z-30">
+        <img src="{{asset('assets/images/header-image-vector-digigate-tunisie.png')}}" alt="header-image-vector-digigate-tunisie" class="max-w-2xl">
     </div>
 
 </header>
