@@ -17,7 +17,8 @@
     <body class="text-gray-800 font-normal bg-gray-100">
          @yield('header')
          @yield('side-bar')
-         @yield('content')
+         @yield('our-services')
+         @yield('our-work')
          @yield('footer')
     </body>
 
