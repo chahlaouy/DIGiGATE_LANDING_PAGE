@@ -19,6 +19,7 @@
          @yield('side-bar')
          @yield('our-services')
          @yield('our-work')
+         @yield('price-table')
          @yield('footer')
     </body>
 

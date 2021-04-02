@@ -9,3 +9,9 @@
 @section('our-work')
     @include('layouts.our-work.our-work')
 @endsection
+@section('price-table')
+    @include('price-tabel.price-table')
+@endsection
+@section('footer')
+    @include('footer.footer')
+@endsection
